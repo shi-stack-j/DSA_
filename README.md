@@ -29,8 +29,7 @@ src/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/DSA.git
-   cd DSA/src
+   git clone https://github.com/shi-stack-j/DSA_.git
    ```
 
 2. Open the folder in your Java IDE (e.g., IntelliJ, Eclipse, VS Code)
